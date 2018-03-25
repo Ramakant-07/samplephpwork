@@ -5,7 +5,7 @@
 <h1>Developing PHP App1</h1>
 
 <?php
-echo "Version: Final";
+echo "Version: ver 1.0";
 ?>
 
 </body>
